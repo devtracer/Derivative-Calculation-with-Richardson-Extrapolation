@@ -54,9 +54,3 @@ The key components and steps in the code are as follows:
    - The GUI is created using `customtkinter`, which enhances the default Tkinter widgets with modern designs.
    - Users can input the function, the point at which they want to calculate the derivative (`x`), the step size (`h`), and the tolerance (`tol`).
    - After entering the required inputs, the user can click a button to calculate the derivative. The result is shown in the GUI, and a plot of the function and its derivative is displayed.
-
-4. **Additional Information:**
-   - The GUI includes helpful instructions on how to enter valid mathematical functions, explaining the syntax for using numpy functions and the exponentiation operator in Python.
-   - It also provides explanations of the x, h, and tol values to guide the user in entering them correctly.
-
-Overall, the code provides an interactive tool for calculating and visualizing the derivative of a user-defined function using Richardson extrapolation.
