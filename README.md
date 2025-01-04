@@ -1,6 +1,26 @@
+# Introduction
 
 This Python code creates a graphical user interface (GUI) using the `customtkinter` library to calculate the first derivative of a mathematical function 
 at a given point using Richardson extrapolation. It also allows the user to plot the function and its derivative.
+
+# How To Install?
+
+1. Download the main.py file
+
+2. Run this command on your terminal:
+   - for Linux:
+        ```
+         python -m pip install tk customtkinter numpy sympy matplotlib
+        ```
+   - for Windows:
+        ```
+         pip install tk customtkinter numpy sympy matplotlib
+        ```
+
+3. Run the main.py file.
+
+
+# Explanations
 
 The key components and steps in the code are as follows:
 
